@@ -9,7 +9,20 @@
 * Can identify the communities within the network to detect potential echo chambers. ​
 
 ## HIGHLIGHTS
-* Random Forest                                  * Degree Centrality
-* Decision Tree                                  * Eigen Vector Centrality 
-* Logistic Regression                            * Betweenness Centrality
-* Girvan Newman Algorithm                        * Closeness Centrality
+
+### ML Algorithms
+* Random Forest                                  
+* Decision Tree
+* Logistic Regression
+
+### Detecting Community Algorithm
+* Girvan Newman Algorithm
+
+### Centrality Measures
+* Degree Centrality
+* Closeness Centrality
+* Betweenness Centrality
+* Eigen Vector Centrality
+
+### Graph builder
+* NetworkX
