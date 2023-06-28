@@ -8,7 +8,7 @@
 
 * Can identify the communities within the network to detect potential echo chambers. ​
 
-#HIGHLIGHTS
+# HIGHLIGHTS
 * Random Forest
 * Decision Tree
 * Logistic Regression
